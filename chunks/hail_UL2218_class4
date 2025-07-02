@@ -1,0 +1,57 @@
+
+
+⸻
+
+title: hail_UL2218_class4
+region: texas
+tags: [hail, UL2218, impact, insurance]
+source_type: performance_data
+review_date: 2025-07-01
+
+UL 2218 Class 4 — Gold Standard for Hail Resistance¹
+
+UL 2218 replicates hail strikes by dropping steel balls onto conditioned roofing samples. Class 4 is the most severe level and the benchmark for Texas insurance discounts.
+
+Test Protocol
+
+Class	Ball Ø	Drop height	Kinetic energy
+1	1¼″	12 ft	9 ft‑lb
+2	1½″	15 ft	14 ft‑lb
+3	1¾″	17 ft	19 ft‑lb
+4	2″	20 ft	23 ft‑lb
+Two impacts on each of six target locations; panel passes if no splitting, fracturing, or delamination is visible from underside.			
+
+graph LR
+    A[2" Steel Ball] -->|20 ft| B[Stone‑Coated Panel]
+    B --> C[Visual Inspection (rear)]
+
+Stone‑Coated Steel Performance²
+	•	Passes Class 4 on 26‑ga AZ‑50 substrate without substrate cracking.
+	•	Granule loss <3 % mass; aesthetic-only dents permissible.
+	•	High‑yield 24‑ga panels show even lower dent depth (<0.5 mm vs. 0.8 mm on 26‑ga).
+
+Texas Hail Risk Map³
+
+Region	Avg ≥1.5″ hail events / yr	Class 4 credit?
+I‑35 Corridor (DFW → Austin)	3–4	Yes (20–35 %)
+Panhandle	2–3	Yes (25 – 35 %)
+Gulf Coast	<1	Optional (5–10 %)
+
+Insurers must offer premium credits per Texas Insurance Code §2210; discounts apply only if ALL roof components are Class 4 rated and documented (Form PC068).
+
+Field Data Highlights⁴
+	•	2016 San Antonio hail: <8 % claim rate on stone‑coated vs. 67 % on asphalt.
+	•	2023 Amarillo storm (2.75″ hail): All 14 inspected stone‑coated roofs remained watertight; minor cosmetic dents only.
+
+Sales Talking Points
+	•	“Class 4 = up to ⅓ off wind/hail premiums in North Texas.”
+	•	Cosmetic‑damage waivers: Homeowner keeps coverage for leaks; cosmetic dents aren’t insured—emphasize longevity over aesthetics.
+	•	Stone granules mask small dents better than painted standing‑seam panels.
+
+⸻
+
+References
+	1.	UL 2218, Impact Resistance of Prepared Roof Covering Materials, 2024.
+	2.	Insurance Institute for Business & Home Safety, Metal Panel Hail Study, 2023.
+	3.	National Weather Service, Texas Severe Storm Database, 2024; Texas Dept. of Insurance Bulletin B‑004‑24.
+	4.	IBHS Field Report TX‑H2023, 2024.
