@@ -1,0 +1,63 @@
+
+
+⸻
+
+title: fasteners_high_wind
+region: texas
+tags: [fasteners, Zone3, wind, TDI]
+source_type: wind_uplift_spec
+review_date: 2025-07-01
+
+High-Wind Fastening (Zone 3 ≥150 mph)¹
+
+Texas Gulf-Coast counties fall under TDI Windstorm Zone 3. Stone-coated steel panels must resist ≥-90 psf uplift (ASTM E1592). That requires upgraded screws, tighter patterns, and in some cases auxiliary clips.
+
+Screw & Clip Options²
+
+Component	Spec	Use case
+#12-11 self-drill	316 SS, ¼″ hex, 1-½″	Direct-to-deck sheathing ≤¾″
+#14-10 wood-binder	Class C HDG, 2″	Into rafters ≥1-½″ penetration
+Hurricane clip	304 SS locking tab	Optional to achieve >-120 psf
+
+All screws must include .945″ Ø EPDM-bonded washers for uplift + water seal.
+
+Schedule by Roof Zone³
+
+Roof zone (ASCE 7-22)	Screw spacing top flange	Stitch spacing (nose)	Edge clip req.?
+Field	12″ o.c.	8″	No
+Perimeter (10% roof dim.)	6″ o.c.	6″	If design ≥-110 psf
+Corners (4% roof area)	4″ o.c.	4″	Yes (12″ o.c.)
+
+grid 4x4
+    %% ● represents screws in corner course (4" pattern)
+    C((●)) C((●)) C((●)) C((●))
+    C((●))    C((●))    C((●))    C((●))
+    C((●)) C((●)) C((●)) C((●))
+    C((●))    C((●))    C((●))    C((●))
+
+Pull-Out & Shear
+	•	Minimum withdrawal resistance: 250 lb (plywood) / 300 lb (rafter) per AC166.
+	•	Torque target: 35-40 in-lb due to larger shank diameter.
+
+Installation Best Practices⁴
+	•	Drive screws into rafters wherever layout permits—engineered plans often mandate every 24″ rafter penetration.
+	•	Pre-drill high-density screw rows in ridge & eave trim to avoid split decking.
+	•	Add bead of butyl tape under first course at eave; acts as “starter” clip and blocks wind-driven rain.
+
+Field QA Checklist
+
+✓ Corner courses verified at 4″ pattern (photograph).
+✓ Random pull-test >= 200 lb on 10% of screws.
+✓ Clip count matches schedule; clips mounted flush (no shimming).
+
+Talking Point for Homeowners
+
+“Every panel edge in a Zone 3 install is locked down with stainless hardware rated to withstand Category 4 hurricane pressures—far stronger than nail-on shingle roofs that top out around 60 psf.”
+
+⸻
+
+References
+	1.	Texas Department of Insurance, Windstorm Manual Table 1, 2024.
+	2.	ICC-ES AC166, Metal Roof Fasteners, 2023.
+	3.	ASCE 7-22, Fig. 30.3-2C, wind pressure coefficients.
+	4.	DECRA Tech Note TN-210, High-Wind Attachment, 2024.
