@@ -1,0 +1,37 @@
+name: Package GPT Knowledge
+on:
+  push:
+    branches: [ main ]          # run on every commit to main
+  workflow_dispatch:            # optional manual trigger
+
+jobs:
+  zip_chunks:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Checkout the repo
+      - uses: actions/checkout@v4
+
+      # 2. Verify total size of the chunks folder (< 20 MB)
+      - name: Verify total size
+        id: size_check
+        run: |
+          TOTAL_BYTES=$(du -bcs chunks | tail -1 | awk '{print $1}')
+          echo "Total bytes: $TOTAL_BYTES"
+          LIMIT=$((20 * 1024 * 1024))  # 20 MB in bytes
+          if [ "$TOTAL_BYTES" -gt "$LIMIT" ]; then
+            echo "::error::Chunks exceed 20 MB limit ($TOTAL_BYTES bytes)"
+            exit 1
+          fi
+
+      # 3. Create the ZIP package
+      - name: Create zip
+        run: |
+          zip -r stone-coated-steel-chunks.zip chunks
+
+      # 4. Upload ZIP as workflow artifact
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: gpt-chunks
+          path: stone-coated-steel-chunks.zip
