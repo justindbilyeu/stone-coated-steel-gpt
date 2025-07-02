@@ -1,0 +1,47 @@
+
+⸻
+
+title: installation_flow
+region: texas
+tags: [installation, workflow, quick_reference]
+source_type: install_flowchart
+review_date: 2025-07-01
+
+Step-by-Step Installation Workflow (Texas Residential)¹
+
+Use this one-page flow as a field checklist. Adapt fastener counts to the wind-zone table in [fasteners_standard] or [fasteners_high_wind].
+
+flowchart TD
+    A[Site Prep & Safety]\n• PPE / harness\n• Material staging --> B[Deck Inspection]\n• Replace rot\n• Flush nails
+    B --> C[Surface Prep]\n• Sweep debris\n• Verify <16% MC
+    C --> D[Underlayment]\nZone 1: synthetic\nZone 3: full S-A
+    D --> E{Batten or Direct?}
+    E -- Direct --> F[Snap chalk lines]\n3-12 slope min
+    E -- Battens --> F2[Install 2×2 battens]\n24" o.c.; fasten into rafters
+    F & F2 --> G[Starter & Eave Metal]\nSeal butyl strip
+    G --> H[Lay Field Panels]\nInterlock L→R; 4-7 screws / panel
+    H --> I[Trim & Flashing]\nValleys, sidewall, chimney
+    I --> J[Ridge Vent & Caps]\nVent roll + foam closures
+    J --> K[Final QC]\n25-in-lb torque\nPhoto docs for WPI-8
+
+Key Best-Practice Reminders
+	•	Fasteners: Stainless or HDG #10 in field; #12 at edges in Zone 3.
+	•	Thermal allowance: Drive screws centered in slots; do not over-torque.
+	•	Walk zones: Step only in lower pan over battens/deck to avoid dents.
+	•	Documentation: For coastal counties, photograph fastener pattern before ridge caps—required for WPI-8.
+
+Typical Crew Sequence & Time (30-square roof)
+
+Phase	Crew size	Avg hrs
+Tear-off & Deck Repair	4	4–6
+Dry-in / Underlayment	3	2
+Batten / Chalk Layout	3	1.5
+Panel + Trim Install	5	8–10
+QC & Cleanup	2	1
+
+Total 1.5–2 days in good weather; add 20 % for complex hips or >12:12 pitch.
+
+⸻
+
+References
+	1.	DECRA Installation Guide, Sec 4–7, 2023; Tilcor Install Manual Rev 2024; Texas Dept. of Insurance WPI-8 Photo Checklist, 2024.
