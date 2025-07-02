@@ -1,0 +1,73 @@
+Here’s the full text of maintenance_repair.md—ready to drop into your chunks/ folder:
+
+---
+title: maintenance_repair
+region: texas
+tags: [maintenance, repair, homeowner]
+source_type: field_guide
+review_date: 2025-07-01
+---
+
+### Routine Maintenance Schedule¹  
+Stone-coated steel is low-maintenance, but **periodic checks protect the 50-year warranty**.
+
+```mermaid
+gantt
+    dateFormat  YYYY
+    title  Stone-Coated Roof Maintenance Timeline (Texas)
+
+    section Year 0
+      Install & photo-document :done, 2025
+
+    section Year 1–5
+      Annual visual (binocular) :a1, 2026, 2029
+      Clean gutters / valleys   :a2, 2026, 2029
+
+    section Year 6–15
+      Flashing torque check     :b1, every 2y, 2027, 2029, 2031, 2033, 2035, 2037, 2039
+      Over-glaze inspection     :b2, every 5y, 2030, 2035, 2040
+
+    section Year 16–30
+      Re-caulk penetrations     :c1, every 5y, 2041, 2046
+      Optional wash (mild soap) :c2, 2040, 2045
+
+    section Year 31–50
+      Ridge/hip fastener swap   :d1, 2056
+      Warranty transfer insp.   :d2, as needed, 2050
+
+Homeowner Tasks
+	•	Each spring: Hose out valleys & clear debris around dormers.
+	•	After hail ≥ 1.5″: Binocular inspection for dent clusters; file insurance if dents penetrate coating.
+	•	Every 5 yrs: Light detergent wash if tree sap or algae present; avoid power-washing > 1500 psi.
+
+Contractor Service Items
+
+Interval	Task	Notes
+2–3 yr	Check torque on ridge + perimeter screws	Retighten to 25–30 in-lb
+5 yr	Spot-prime exposed cut edges	Use manufacturer touch-up kit
+10 yr	Replace any degraded sealant at pipe boots	High-temp butyl or polyurethane
+25–30 yr	Swap ridge cap screws if EPDM washer hardens	Stainless #10 × 2″ w/ new washer
+
+Common Repairs²
+
+Scenario	Fix	Home-DIY?
+Granule scuff from foot traffic	Brush touch-up acrylic + sprinkle spare granules	✔ (follow kit)
+Single panel dented by large branch	Lift ridge cap, remove 4–6 screws, slide out panel, replace	✘ call pro
+Leaky vent flashing	Replace boot & reseal underlap	✘ Zone 3 requires recertification
+
+Emergency Patch
+
+If fasteners back out during a storm, place a neoprene-backed wafer-head #14 screw in the same hole plus butyl mastic under the washer; schedule permanent repair within 30 days.
+
+Warranty Notes
+	•	Excessive granule loss (> 3 % mass in first 25 yrs) is covered.
+	•	Cosmetic hail dents not covered if watertightness is retained (mirrors most insurer language).
+	•	Warranty transfer: complete inspection + $200 admin fee within 60 days of home sale.
+
+⸻
+
+References
+	1.	DECRA Owner’s Care Guide, 2024; Tilcor Maintenance Bulletin MB-03, 2023.
+	2.	NRCA Roofing Manual, Metal Panel Systems §14.6, 2024.
+
+Copy the block above into a file named `maintenance_repair.md`, commit, and push—your CI action will zip it into the next artifact.
