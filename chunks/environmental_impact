@@ -1,0 +1,52 @@
+
+⸻
+
+title: environmental_impact
+region: texas
+tags: [sustainability, recyclability, energy]
+source_type: sustainability_report
+review_date: 2025-07-01
+
+Sustainability Profile of Stone-Coated Steel Roofing¹
+
+Attribute	Data	Benefit for Texas homeowners
+Recycled content	30–35 % post-consumer steel scrap	Diverts ~1.1 tons CO₂-eq vs virgin steel per roof
+End-of-life recyclability	100 % steel reclaimable	No landfill fees; local scrap yards pay ~$80/ton (2025)
+Longevity	50+ yr service life	Cuts material throughput; 2–3 asphalt tear-offs avoided
+Cool-roof granules	Solar reflectance 0.30 avg (light colours 0.40)	HVAC kWh ↓ 12–20 % in Houston climate
+Weight	1.4 lb/ft² (½ asphalt)	Reduced embodied energy in framing & transport
+
+Embodied Energy vs. Asphalt²
+
+barChart
+    title Embodied Energy (MJ / ft² roof)
+    x-axis Material
+    y-axis MJ/ft²
+    data
+        Steel 30
+        Asphalt 45
+
+Despite higher per-kg energy, lighter weight and long life make steel 33 % lower MJ/ft² over 50 years.
+
+Landfill Diversion Impact³
+
+Texas sends ~1.2 M tons of torn-off shingles to landfills annually. One 30-square metal reroof prevents ~6 000 lb of asphalt debris.
+
+LEED & Energy Code Credits
+	•	LEED v4: counts toward MRc1 (Building Life-Cycle Impact Reduction) and MRc2 (BPDO—Recycled Content).
+	•	IECC 2021: High-albedo stone-coated panels (<0.30 SRI) qualify as a cool roof on ≥2:12 slope in Climate Zones 2–4 (80 % of Texas).
+	•	Utility rebates: CenterPoint Energy Cool Roof program pays $0.28/ft² for roofs with ≥0.25 aged reflectance.
+
+Carbon Payback Calculation
+
+A 2 500 ft² Houston home switching to stone-coated steel vs architectural shingles:
+	•	Embodied CO₂ saved: ~8 t CO₂-eq over 50 yr.
+	•	Operational CO₂ saved via HVAC: ~0.6 t/yr ×50 yr = 30 t CO₂-eq.
+	•	Net lifecycle reduction: ≈38 t CO₂-eq—roughly the annual emissions of four average U.S. households.
+
+⸻
+
+References
+	1.	Metal Construction Association, Environmental Product Declaration—Stone-Coated Steel, 2024.
+	2.	NREL Life-Cycle Inventory Database, Steel vs Asphalt Shingle Roof, 2023.
+	3.	Texas Commission on Environmental Quality, Construction Waste Report, 2024.
