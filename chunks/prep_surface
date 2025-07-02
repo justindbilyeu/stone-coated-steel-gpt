@@ -1,0 +1,58 @@
+
+
+⸻
+
+title: prep_surface
+region: texas
+tags: [installation, deck, preparation, moisture]
+source_type: installation_manual
+review_date: 2025-07-01
+
+Roof Deck Preparation Checklist¹
+
+Stone‑coated steel panels demand a flat, dry, and structurally sound substrate. Follow these steps before underlayment goes down.
+
+1  Structural Verification
+	•	Decking material: 15/32″ APA plywood or 7⁄16″ OSB min (per IRC R803).
+	•	Fastener pull‑out: ≥ 90 lb for nails; re‑nail loose sheathing.
+	•	Deflection: ≤ 1/240 span (check sagging rafters).
+
+2  Moisture & Damage Survey
+	•	Replace any panel with >20 % rot or moisture >16 % (ASTM D4442 meter).
+	•	Remove previous felt / debris; vacuum or blow clean.
+	•	Repair raised nails or backing‑out screws that could puncture underlayment.
+
+3  Surface Flatness
+	•	Tolerance: ±¼″ in 10 ft—shim low spots, plane high edges.
+	•	Reroof‑over‑shingles? Allowed only if 1 layer, class A/B, lies flat, & local code permits; TDI windstorm requires full tear‑off in coastal counties.²
+
+4  Batten vs. Direct‑to‑Deck³
+
+Method	Pros	Cons	Texas Fit
+Direct‑deck	Max wind uplift, low profile	Less ventilation	Zone 3 coast & high wind belts
+2×2 battens	Ventilated air gap lowers attic temps 8‑12 °F	Extra labour; uplift layer	Inland / energy‑code retrofits
+
+graph LR
+    A[Deck] -->|optional| B[Battens]
+    B --> C[Underlayment]
+    C --> D[Panel]
+
+5  Metal Contact Readiness
+	•	Remove copper plumbing flashings (galvanic risk).
+	•	Prime any exposed steel hardware with zinc‑rich primer.
+
+Common Pitfalls & Fixes
+
+Mistake	Consequence	Prevention
+Install over wet deck	Traps moisture → mould	Verify <16 % MC
+Uneven sheathing joints	Panel oil‑canning	Plane / shim
+Overlay on curled shingles	Fastener back‑out, leaks	Full tear‑off
+
+
+
+⸻
+
+References
+	1.	Tilcor Installation Guide, Section 3, 2024.
+	2.	Texas Department of Insurance, WPI‑8 Guidelines, 2024.
+	3.	DECRA Tech Bulletin TB‑118, Batten vs Direct‑Fix, 2023.
