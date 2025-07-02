@@ -1,0 +1,55 @@
+
+
+⸻
+
+title: granule_types_bonding
+region: texas
+tags: [granules, coating, adhesion, durability]
+source_type: materials_analysis
+review_date: 2025-07-01
+
+Stone Granules – What & Why¹
+
+Stone‑coated panels rely on ceramic‑pigmented basalt granules to deliver colour, UV shielding, texture, and hail cushioning. Basalt’s 6–7 Mohs hardness resists abrasion better than slate or silica sand.
+
+Granule Families
+
+Type	Core	Pigment	Best‑fit use
+Ceramic‑coated basalt	Crushed volcanic rock	Inorganic oxides fired @ 1 100 °C	90 % of TX supply (fade‑resistant).
+Hematite blend	Basalt + iron ore	Natural iron oxide	Deep reds / terra‑cotta looks.
+Reflective (IR) granules	Basalt + TiO₂ topcoat	Cool‑roof pigments	Low‑slope or energy‑code projects (≥0.28 solar refl.).
+
+Adhesion Stack²
+
+flowchart LR
+    A[Acrylic Basecoat\n(150–200 µm)] --> B[Granule Embed\n(Rainfall spreader)]
+    B --> C[74‑m roller press]
+    C --> D[Curing Oven\n450 °F / 90 s]
+    D --> E[Clear Over‑glaze\n30–40 µm]
+
+	•	Basecoat – water‑borne acrylic; tensile ≥250 psi, elongation ≥150 %.
+	•	Embed depth – 40–60 % of granule diameter; too shallow → loss, too deep → colour blotch.
+	•	Over‑glaze – UV‑blocking acrylic that locks loose chips and sheds dirt.
+
+Durability Metrics³
+	•	Granule retention: ≤2 g loss per 100 cm² after ASTM D4977 scrub (500 cycles).
+	•	Colour fade: ≤5 ΔE after 3‑yr Florida exposure (Ceramic IR set).
+	•	Impact: <5 % granule loss after UL 2218 Class 4 2″ steel‑ball strike.
+
+Texas Stress Factors & Solutions⁴
+	•	High UV & Heat – Ceramic pigments are inorganic, so they withstand 2 000+ MJ/m² annual irradiance without chalking.
+	•	Hail – Granule cushion plus 26‑ga steel core absorbs energy; ensure panel passes Class 4 before claiming TDI discount.
+	•	Humidity – Acrylic binders are thermoplastic; over‑glaze prevents moisture softening during Gulf‑coast summers.
+
+Sales Talking Points
+	•	Colour is baked in the rock, not painted—no peeling.
+	•	50‑yr warranty typically covers excessive granule loss (<3 % in first 25 yr).
+	•	IR granules can lower attic temps 8‑12 °F → 10‑15 % summer kWh savings.
+
+⸻
+
+References
+	1.	3M Industrial Mineral Products, Roofing Granule Spec Sheet, 2024.
+	2.	Metal Coil Coating Association, Stone‑Coated Process Guide, 2024.
+	3.	ASTM D4977‑23, Granule Loss Test; UL 2218 (2024).
+	4.	Lawrence Berkeley Nat’l Lab, Cool Roof Colored Granules Study, 2024.
