@@ -1,0 +1,57 @@
+
+
+⸻
+
+title: wind_uplift_TDI
+region: texas
+tags: [wind, uplift, TDI, pressure]
+source_type: code_requirement
+review_date: 2025-07-01
+
+Wind‑Uplift Essentials for Texas Windstorm Zones¹
+
+The Texas Department of Insurance (TDI) issues Product Evaluations (RC‑series) that specify fastening schedules and design pressures required for a WPI‑8 certificate. Stone‑coated steel systems must pass lab tests and be installed per the evaluated assembly.
+
+Lab Tests Referenced
+
+Test	Purpose	Pass threshold
+UL 580	Static uplift, positive/negative	Class 90 (≥‑90 psf)
+UL 1897	Incremental vacuum pressure	# of cycles @ design pressure ×1.5
+ASTM E1592	Cyclic load; large panels	Withstand 1.5 × design ⇒ no failure
+
+Design Pressure Targets (psf)²
+
+Zone (ASCE 7‑22)	Field	Perimeter	Corner
+1 (<120 mph)	‑30	‑45	‑60
+2 (130‑140 mph)	‑45	‑60	‑75
+3 (≥150 mph Gulf)	‑60	‑90	‑120
+Assemblies must meet or exceed the corner value to be accepted for the whole roof.			
+
+Example: Tilcor RC‑523 Assemblies³
+
+Assembly	Deck	Fasteners / panel	Rated (psf)
+#1 Direct‑fix	15⁄32″ plywood	4 × #10 screws	‑75
+#2 Direct‑fix (enhanced)	15⁄32″ plywood	7 × #12 screws	‑97.5
+#4 Battens	2×2 battens + screws	8 screws + clips	‑135
+
+flowchart LR
+    A[#12 SS Screw] -->|7 per panel| B[26‑ga Panel]
+    B --> C[Deck 15/32"]
+    C --> D[-97.5 psf Pass]
+
+Field Inspection Points⁴
+	•	Screw size & count must match assembly (inspect 1 in 5 panels).
+	•	Edge zones: verify 4″ o.c. screw pattern first 10′ from eave/rake.
+	•	Upload photos to TDI portal before installing ridge caps—missing documentation is #1 reason for WPI‑8 denial.
+
+Talking Points for Homeowners
+	•	Direct‑fix enhanced schedule lets roofs ride out Cat‑4 (150 mph) gusts without batten voids.
+	•	Achieving WPI‑8 may cut windstorm premiums 10‑15 % through TWIA credit tables.
+
+⸻
+
+References
+	1.	Texas Dept. of Insurance, Windstorm Inspection Manual Sect. 2, 2024.
+	2.	ASCE 7‑22, Table 30.3‑2C; ICC‑ES AC166 commentary.
+	3.	TDI Evaluation RC‑523, Rev. 2024‑05.
+	4.	TDI Form WPI‑2 Guidance, 2025.
